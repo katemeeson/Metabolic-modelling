@@ -1,0 +1,5 @@
+cobra>=0.25.0
+numpy>=1.23.3
+pandas>=1.5.0
+requests>=2.28.1
+xmltodict>=0.13.0
